@@ -31,7 +31,7 @@
     $ffde/ffdf    SAM Map Type - in D64 switches in upper 32K RAM $8000-$feff
 
     from http://archive.worldofdragon.org/index.php?title=Dragon_32_-_64K_Upgrade#APPENDICES. :
-    Most well—known of these operations is the so-called 'speed-up poke'
+    Most well-known of these operations is the so-called 'speed-up poke'
     (POKE&HFFD7,0 and its reverse, POKE&HFFD6,0); however, of more concern to us
     here is the Map Type Bit (TY), set by FFDF, cleared by FFDE; the Page Bit (Pl),
     set by FFD5, cleared by FFD4; and the Memory Size Bits (M0 A Ml) set/cleared by
